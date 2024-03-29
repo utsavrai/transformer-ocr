@@ -61,6 +61,4 @@ This script further processes the line segment images, applying any required pre
 - Modify the script parameters in the "Usage" sections according to your specific directories and requirements.
 - These scripts are part of a workflow designed for processing document images for text recognition tasks. They are best used in the sequence presented here.
 
-For more information, troubleshooting, or contributions, please refer to the project repository or contact the maintainer.
-
 ---
